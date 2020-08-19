@@ -1,0 +1,23 @@
+{
+  "name": "sass-project",
+  "version": "1.0.0",
+  "description": "project based on sass, html, css, javascript",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shailesh74250/sass-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shailesh74250/sass-project/issues"
+  },
+  "homepage": "https://github.com/shailesh74250/sass-project#readme",
+  "dependencies": {
+    "node-sass": "^4.14.1"
+  }
+}

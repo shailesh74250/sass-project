@@ -1,0 +1,12 @@
+What does Sass Offer 
+1. variables
+2. Nesting
+3. Partials / Imports
+4. Functions & Mixins
+5. Conditionals
+6. Inheritance
+7. Operators & Calculations
+8. Color Functionss
+
+when deploy this project only take dist folder 
+because sass folder is just for development purpose.
